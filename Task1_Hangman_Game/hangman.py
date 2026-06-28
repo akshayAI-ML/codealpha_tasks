@@ -1,4 +1,3 @@
-
 import random  # Used to select a random word
 
 # List of predefined words
